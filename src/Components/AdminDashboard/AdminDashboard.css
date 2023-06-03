@@ -1,0 +1,39 @@
+
+  .table{
+    margin-top:20px;
+    background-color:white;
+    width:85%;  
+  }
+  
+  .thead-dark tr{
+   background-color:#212529 !important;
+   color:white;
+  }
+  
+  tr,th{
+    height:4rem;
+    text-align:center;
+  }
+  
+  tr:hover{
+    background-color: #d9d9d9;
+    cursor: pointer;
+  }
+  
+  .d-none {
+      display: none!important;
+  }
+  
+  .cuantEdit {
+      width: 7rem;
+      display: inline-flex;
+  }
+  
+  .recordsControl span{
+    cursor: pointer;
+  }
+  
+  .recordsControl span:hover{
+    color: #cc9900;
+  }
+  
